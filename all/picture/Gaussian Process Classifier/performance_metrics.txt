@@ -1,0 +1,7 @@
+Model: Gaussian Process Classifier
+Accuracy: 0.9825
+Precision: 1.0000
+Recall: 0.9535
+F1 Score: 0.9762
+AUC-ROC: 0.9931
+AUC-PR: 0.9910

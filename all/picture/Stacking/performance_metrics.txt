@@ -1,0 +1,7 @@
+Model: Stacking Classifier
+Accuracy: 0.9649
+Precision: 0.9535
+Recall: 0.9535
+F1 Score: 0.9535
+AUC-ROC: 0.9974
+AUC-PR: 0.9959
