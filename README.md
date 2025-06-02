@@ -2,3 +2,4 @@
 我们系统地探索了多种经典机器学习算法（如逻辑回归、决策树、随机森林等）和先进的深度学习模型（如TabNet、XGBoost、深度神经网络等）在乳腺癌分类任务中的应用，总共用了近20种算法和模型，此外，我们还用Fashion-MNIST数据集同样进行分类实验，使用全连接神经网络、卷积神经网络模型，来探究神经网络在图像识别和更大的数据集上的效果
 
 requirements.txt中的包适用于在其他Anaconda环境中严格按照相同配置进行复现，all内的jupyter文件需要先运行数据处理部分的代码，才能进行后续的模型训练
+由于github上不能上传超过25MB的数据，所以fashion-MNIST数据集并没有传全，其中的fashion-mnist_train.csv和train-images-idx3-ubyte.gz并没有上传，现给出该数据集的下载链接:https://github.com/zalandoresearch/fashion-mnist
